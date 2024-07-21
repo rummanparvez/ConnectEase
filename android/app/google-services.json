@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "757849253504",
+    "project_id": "connectease-a20cb",
+    "storage_bucket": "connectease-a20cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757849253504:android:3954268ccae7f217102865",
+        "android_client_info": {
+          "package_name": "com.chat.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757849253504-l0ofusa2acdb4vicuaac1jf6dasoig3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chat.app",
+            "certificate_hash": "fd22f2835ac1f2609dc83882256b6b187524ca9e"
+          }
+        },
+        {
+          "client_id": "757849253504-kag07a7f0vkjake342u602h2m3q8kapu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2tEgLrQBSyDbAUPOHIZnDvtkJ5UUDDUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757849253504-kag07a7f0vkjake342u602h2m3q8kapu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
